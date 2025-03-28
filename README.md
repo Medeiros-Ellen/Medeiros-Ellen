@@ -24,4 +24,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
    <img src="icons8-power-bi-48.png" width="45" title="Power BI"/>
+   <img src="" width="40" title="Excel"/>
 </div>
