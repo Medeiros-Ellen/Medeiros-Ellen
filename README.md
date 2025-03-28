@@ -1,16 +1,27 @@
-## Hi there 👋
+  
+<h1 align="center">
+  🎲👋 Ellen Medeiros
+</h1>
 
-<!--
-**Medeiros-Ellen/Medeiros-Ellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>📊 Analista de Dados | Python | SQL | Power BI</strong>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/medeirosellen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/medeiros_ellens/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### <p align = "center">🛠 Ferramentas </p> 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" title="SQL"/>
+   <img src="icons8-power-bi-48.png" width="45" title="Power BI"/>
+</div>
