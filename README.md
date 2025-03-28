@@ -1,6 +1,6 @@
   
 <h1 align="center">
-  🎲👋 Ellen Medeiros
+  🎲 Ellen Medeiros 🎲
 </h1>
 
 <p align="center">
